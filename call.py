@@ -95,7 +95,7 @@ class SendCall():
             print(f"{Fore.LIGHTRED_EX}[-] {Style.RESET_ALL}Başarısız! --> expressdekor.com")
             
     
-    #thepicktolight.com
+    #thepicktolight.comseurıowruoıewuroıewuroıewuoıreruı
     def Thepick(self):
         try:
             url = "https://thepicktolight.com:443/wp-json/contact-form-7/v1/contact-forms/561/feedback"
