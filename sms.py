@@ -6,7 +6,8 @@ from colorama import Fore, Style
 
 class SendSms():
     adet = 0
-    
+    #RIOPERIOPWEIRPOEWOIPREWIOP
+    #URIIOUIOEWREW
     def __init__(self, phone, mail):
         self.phone = str(phone)
         if len(mail) != 0:
